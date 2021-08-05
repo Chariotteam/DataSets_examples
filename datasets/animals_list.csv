@@ -1,0 +1,34 @@
+Name,Egg-laying,Scales,Poisonous,Cold-blooded,Number legs,Chamber,Plumage,Warm-blooded,Smooth skin,Type
+Cobra,1,1,1,1,0,3,0,0,0,Reptile
+Rattlesnake,1,1,1,1,0,3,0,0,0,Reptile
+Boa constrictor,1,1,0,1,0,3,0,0,0,Reptile
+Chicken,1,1,0,1,2,4,1,1,0,Bird
+Guppy,0,1,0,0,0,2,0,0,0,Fish
+Dart frog,1,0,1,0,4,3,0,0,1,Amphibia
+Zebra,0,0,0,0,4,4,0,1,0,Mammal
+Python,1,1,0,1,0,3,0,0,0,Reptile
+Alligator,1,1,0,1,4,3,0,0,0,Reptile
+Chameleon,1,1,0,1,4,3,0,0,0,Reptile
+Gecko,1,1,0,1,4,3,0,0,0,Reptile
+Giraffe,0,0,0,0,4,4,0,1,0,Mammal
+Platypus,1,0,1,0,4,4,0,1,0,Mammal
+Newt,1,0,0,1,4,3,0,0,1,Amphibia
+Tadpole,1,0,0,1,0,3,0,0,1,Amphibia
+Labyrinthodonts,1,0,0,1,4,3,0,0,1,
+Fugu,1,1,1,1,0,2,0,0,0,Fish
+Perch,1,1,0,1,0,2,0,0,0,Fish
+Salmon,1,1,0,1,0,2,0,0,0,Fish
+Hedgehog fish,1,1,1,1,0,2,0,0,0,Fish
+Lion,0,0,0,0,4,4,0,1,0,Mammal
+Catfish,1,0,0,1,0,2,0,0,1,Fish
+Mackerel,1,0,0,1,0,2,0,0,1,Fish
+Ostrich,1,0,0,0,2,4,1,1,0,Bird
+Penguin,1,0,0,0,2,4,1,1,0,Bird
+Elephant,0,0,0,0,4,4,0,1,1,Mammal
+Woodpecker,1,0,0,0,2,4,1,1,0,Bird
+Common quail,1,0,1,0,2,4,1,1,0,
+Guckoo,1,0,0,0,2,4,1,1,0,Bird
+Whale,0,0,0,0,0,4,0,1,1,Mammal
+Dolphin,0,0,0,0,0,4,0,1,1,
+Owls,1,0,0,0,2,4,1,1,0,Bird
+Spotted Salamander,1,0,1,1,4,3,0,0,1,Amphibia

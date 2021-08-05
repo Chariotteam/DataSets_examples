@@ -1,0 +1,34 @@
+Name,Egg-laying,Scales,Poisonous,Cold-blooded,Number legs,Chamber,Plumage,Warm-blooded,Smooth skin
+Cobra,1,1,1,1,0,3,0,0,0
+Rattlesnake,1,1,1,1,0,3,0,0,0
+Boa constrictor,1,1,0,1,0,3,0,0,0
+Chicken,1,1,0,1,2,4,1,1,0
+Guppy,0,1,0,0,0,2,0,0,0
+Dart frog,1,0,1,0,4,3,0,0,1
+Zebra,0,0,0,0,4,4,0,1,0
+Python,1,1,0,1,0,3,0,0,0
+Alligator,1,1,0,1,4,3,0,0,0
+Chameleon,1,1,0,1,4,3,0,0,0
+Gecko,1,1,0,1,4,3,0,0,0
+Giraffe,0,0,0,0,4,4,0,1,0
+Platypus,1,0,1,0,4,4,0,1,0
+Newt,1,0,0,1,4,3,0,0,1
+Tadpole,1,0,0,1,0,3,0,0,1
+Labyrinthodonts,1,0,0,1,4,3,0,0,1
+Fugu,1,1,1,1,0,2,0,0,0
+Perch,1,1,0,1,0,2,0,0,0
+Salmon,1,1,0,1,0,2,0,0,0
+Hedgehog fish,1,1,1,1,0,2,0,0,0
+Lion,0,0,0,0,4,4,0,1,0
+Catfish,1,0,0,1,0,2,0,0,1
+Mackerel,1,0,0,1,0,2,0,0,1
+Ostrich,1,0,0,0,2,4,1,1,0
+Penguin,1,0,0,0,2,4,1,1,0
+Elephant,0,0,0,0,4,4,0,1,1
+Woodpecker,1,0,0,0,2,4,1,1,0
+Common quail,1,0,1,0,2,4,1,1,0
+Guckoo,1,0,0,0,2,4,1,1,0
+Whale,0,0,0,0,0,4,0,1,1
+Dolphin,0,0,0,0,0,4,0,1,1
+Owls,1,0,0,0,2,4,1,1,0
+Spotted Salamander,1,0,1,1,4,3,0,0,1

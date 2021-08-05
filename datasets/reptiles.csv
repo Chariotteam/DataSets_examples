@@ -1,0 +1,14 @@
+Name,Egg-laying,Scales,Poisonous,Cold-blooded,Number legs,Reptile
+Cobra,1,1,1,1,0,1
+Rattlesnake,1,1,1,1,0,1
+Boa constrictor,0,1,0,1,0,1
+Chicken,1,1,0,1,2,0
+Guppy,0,1,0,0,0,0
+Dart frog,1,0,1,0,4,0
+Zebra,0,0,0,0,4,
+Python,1,1,0,1,0,
+Alligator,1,1,0,1,4,
+Chameleon,1,1,0,1,4,
+Gecko,1,1,0,1,4,
+Giraffe,0,0,0,0,4,
+Platypus,1,0,1,0,4,
